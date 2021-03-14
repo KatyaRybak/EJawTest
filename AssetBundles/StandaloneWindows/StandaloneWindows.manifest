@@ -1,0 +1,13 @@
+ManifestFileVersion: 0
+CRC: 952908685
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: bundle_3
+      Dependencies: {}
+    Info_1:
+      Name: bundle_1
+      Dependencies: {}
+    Info_2:
+      Name: bundle_2
+      Dependencies: {}
